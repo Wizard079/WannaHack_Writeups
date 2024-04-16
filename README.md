@@ -14,7 +14,7 @@ Here are WriteUps of cops WannaHack CTF
 
 [Journey](https://github.com/Wizard079/WannaHack_Writeups/tree/main/forensics/Journey)
 
-[Memes,Sarcasm and Banter](https://github.com/Wizard079/WannaHack_Writeups/tree/main/forensics/Memes,%20Sarcasm%20and%20Banter)
+[Memes,Sarcasm and Banter](https://github.com/Wizard079/WannaHack_Writeups/tree/main/forensics/Memes)
 
 ## WEB
 
