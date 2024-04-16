@@ -29,4 +29,4 @@ The Women: A Novel
 
 ## Flag
 
-##  COPS{kristin_hannah}
+##  TechnexCTF{kristin_hannah}
