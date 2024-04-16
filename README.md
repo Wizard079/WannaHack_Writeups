@@ -41,7 +41,7 @@ Here are WriteUps of cops WannaHack CTF
 [Themer](https://github.com/Wizard079/WannaHack_Writeups/tree/main/web/Themer)
 
 
-[Themer 2](https://github.com/Wizard079/WannaHack_Writeups/tree/main/web/Themer%202)
+[Themer 2](https://github.com/Wizard079/WannaHack_Writeups/tree/main/web/Themer2)
 
 
 ---
