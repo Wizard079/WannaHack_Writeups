@@ -35,7 +35,7 @@ Here are WriteUps of cops WannaHack CTF
 [Headers!](https://github.com/Wizard079/WannaHack_Writeups/tree/main/web/Headers!)
 
 
-[Are you Admin?](https://github.com/Wizard079/WannaHack_Writeups/tree/main/web/Are%20you%20Admin?)
+[Are you Admin?](https://github.com/Wizard079/WannaHack_Writeups/tree/main/web/Are%20You%20Admin%3F)
 
 
 [Themer](https://github.com/Wizard079/WannaHack_Writeups/tree/main/web/Themer)
