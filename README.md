@@ -66,7 +66,7 @@ Here are WriteUps of cops WannaHack CTF
 [Challenge 2.0.1 (Cybersleuth2)](https://github.com/Wizard079/WannaHack_Writeups/tree/main/workshop/Challenge%202.0.1%20(Cybersleuth2))
 
 
-[Challenge 2.0.2 (Cybersleuth3)](https://github.com/Wizard079/WannaHack_Writeups/tree/main/workshop/Challenge%202.0.2%20(CyberSleuth3))
+[Challenge 2.0.2 (Cybersleuth3)](https://github.com/Wizard079/WannaHack_Writeups/tree/main/workshop/Challenge%202.0.2%20(Cybersleuth3))
 
 
 [Challenge 2.0.3 (Cybersleuth4)](https://github.com/Wizard079/WannaHack_Writeups/tree/main/workshop/Challenge%202.0.3%20(Cybersleuth4))
