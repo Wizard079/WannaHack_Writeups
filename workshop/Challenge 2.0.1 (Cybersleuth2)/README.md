@@ -20,4 +20,4 @@ Abhinav Lenka : Owner
 and email of Abhinav Lenka is : lenkaabhinav0@gmail.com (from details)
 ## Flag
 
-##  COPS{lenkaabhinav0@gmail.com}
+##  TechnexCTF{lenkaabhinav0@gmail.com}
