@@ -3,18 +3,29 @@
 
 Here are WriteUps of cops WannaHack CTF 
 
+---
+
 ## 🔗 Links
+
+---
+
 ## MISC/PROGRAMMING
 
 [Password](https://github.com/Wizard079/WannaHack_Writeups/tree/main/misc/Password)
 
 [Sanity](https://github.com/Wizard079/WannaHack_Writeups/tree/main/misc/Sanity)
 
+---
+
+
 ## FORENSICS
 
 [Journey](https://github.com/Wizard079/WannaHack_Writeups/tree/main/forensics/Journey)
 
 [Memes,Sarcasm and Banter](https://github.com/Wizard079/WannaHack_Writeups/tree/main/forensics/Memes)
+
+
+---
 
 ## WEB
 
@@ -32,6 +43,9 @@ Here are WriteUps of cops WannaHack CTF
 
 [Themer 2](https://github.com/Wizard079/WannaHack_Writeups/tree/main/web/Themer%202)
 
+
+---
+
 ## OSINT
 
 
@@ -42,6 +56,8 @@ Here are WriteUps of cops WannaHack CTF
 [wannabe3](https://github.com/Wizard079/WannaHack_Writeups/tree/main/osint/wannabe3)
 
 [wannabe4](https://github.com/Wizard079/WannaHack_Writeups/tree/main/osint/wannabe4)
+
+---
 
 ## WORKSHOP
 
@@ -54,3 +70,6 @@ Here are WriteUps of cops WannaHack CTF
 
 
 [Challenge 2.0.3 (Cybersleuth4)](https://github.com/Wizard079/WannaHack_Writeups/tree/main/workshop/Challenge%202.0.3%20(Cybersleuth4))
+
+---
+
